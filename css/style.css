@@ -1,0 +1,47 @@
+
+.bg-blue {
+  background-color: darkblue;
+}
+
+.top-head {
+  font-size: 1em;
+}
+
+.top-btn {
+  font-size: small;
+}
+
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  font-size: small;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 20px;
+  text-decoration: none;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+li a:hover {
+  background-color: darkblue;
+  color: white;
+  text-decoration: none;
+}
+
+.active {
+  background-color: darkblue;
+  color: white;
+  border-radius: 20px;
+}
+
+.font-sm {
+  font-size: small;
+}
+

@@ -1,3 +1,24 @@
+#myBtn {
+	display: none;
+	position: fixed;
+	bottom: 5px;
+	right: 5px;
+	z-index: 99;
+	font-size: 36px;
+	border: none;
+	outline: none;
+	background-color: gray;
+	opacity:0.6;
+	color: white;
+	cursor: pointer;
+	padding: 4px;
+  border-radius: 1px;
+}
+
+#myBtn:hover {
+  background-color: #000;
+}
+
 
 .bg-blue {
   background-color: darkblue;
@@ -44,4 +65,3 @@ li a:hover {
 .font-sm {
   font-size: small;
 }
-
